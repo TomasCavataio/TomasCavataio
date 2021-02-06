@@ -8,7 +8,7 @@
 
 
 <p>
-  <img height="156px" width="156px" style="text-align: center;" src="https://cdn.rawgit.com/angular-material-extensions/jumbotron/master/demo/src/assets/logo.svg">
+  <img height="56px" width="56px" style="text-align: left;" src="https://cdn.rawgit.com/angular-material-extensions/jumbotron/master/demo/src/assets/logo.svg">
 </p>
 
 
