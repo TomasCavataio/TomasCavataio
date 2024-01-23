@@ -17,7 +17,7 @@
     <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/jenkins.svg" alt="jenkins" width="60" height="60"/> 
 
 </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomascavataio&show_icons=true&theme=radical&hide_rank=true" alt="tomascavataio" /> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomascavataio" alt="tomascavataio" /> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomascavataio&theme=radical" alt="tomascavataio" /> 
 </p>
 
 <p align="center">
