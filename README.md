@@ -16,7 +16,8 @@
    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nestjs.svg" alt="nestJs" width="60" height="60"/> 
     <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/jenkins.svg" alt="jenkins" width="60" height="60"/> 
 
-</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomascavataio&show_icons=true" alt="tomascavataio" /> 
+</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomascavataio&show_icons=true&theme=radical&hide_rank=true" alt="tomascavataio" /> 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomascavataio)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center">
