@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tomas</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomascavataio" alt="tomascavataio" /> </p>
+<p align="left"> 
+   
+   <img src="https://komarev.com/ghpvc/?username=tomascavataio" alt="tomascavataio" /> 
 
 - 📫 How to reach me **tomascavataio@gmail.com**
 
@@ -15,15 +17,15 @@
 <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="bootstrap" width="60" height="60"/>  <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="java" width="60" height="60"/> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" alt="javascript" width="60" height="60"/> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/typescript-icon.svg" alt="typescript" width="60" height="60"/> <img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="mongodb" width="60" height="60"/> <img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="mysql" width="60" height="60"/> <img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="sass" width="60" height="60"/> <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="nodejs" width="60" height="60"/> 
    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nestjs.svg" alt="nestJs" width="60" height="60"/> 
     <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/jenkins.svg" alt="jenkins" width="60" height="60"/> 
-
 </p>
+
+
 
 <p align="center"> 
-   <img src="https://github-readme-stats.vercel.app/api?username=tomascavataio&show_icons=true&theme=radical&hide_rank=true" alt="tomascavataio" height="400" width="400"/> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomascavataio&theme=radical&layout=donut" alt="tomascavataio" height="400" width="400"/> 
+   <img src="https://github-readme-stats.vercel.app/api?username=tomascavataio&show_icons=true&theme=radical&hide_rank=true" alt="tomascavataio"/> 
 </p>
-
-
+<p align="center"> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomascavataio&theme=radical&layout=donut" alt="tomascavataio"/> 
+</p>
 <p align="center">
-<a href="https://linkedin.com/in/tomas-cavataio-1058a618b" target="blank"><img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/linkedin-icon.svg" alt="tomas-cavataio" height="20" width="20" /></a>
-</p>
+<a href="https://linkedin.com/in/tomas-cavataio-1058a618b" target="blank"><img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/linkedin-icon.svg" alt="tomas-cavataio" height="20" width="20" />
