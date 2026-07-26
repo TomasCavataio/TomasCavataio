@@ -26,11 +26,16 @@
     APIs to databases, cloud infrastructure, CI/CD pipelines and observability.
   </p>
 
-  <p>
-    <strong>
-      TypeScript · Java · Node · Angular · React · SQL · Docker ·  AWS · Kubernetes
-    </strong>
-  </p>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=ts,java,nodejs,react,angular,docker,postgres,git,aws&theme=dark"
+    alt="Technologies"
+  />
+</p>
+
+<p align="center">
+  TypeScript · Java · Node · React · Angular · Docker · PostgreSQL · GIT · AWS 
+</p>
 
   <br />
 
@@ -55,8 +60,6 @@
 
 </div>
 
-<br />
-
 <!-- =========================
      ABOUT
 ========================= -->
@@ -77,6 +80,7 @@ const tomas = {
   ],
 
   currentFocus: [
+    "AI",
     "DevOps",
     "Platform Engineering",
     "AWS",
