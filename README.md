@@ -1,31 +1,86 @@
-<h1 align="center">Hi 👋, I'm Tomas</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<!-- =========================
+     HERO
+========================= -->
 
-<p align="left"> 
-   
-   <img src="https://komarev.com/ghpvc/?username=tomascavataio" alt="tomascavataio" /> 
-
-- 📫 How to reach me **tomascavataio@gmail.com**
-
-
-
-<p>
-<img height="60" width="60" src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg">
-   <img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="css3" width="60" height="60"/> <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="html5" width="60" height="60"/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/cypress.svg" alt="cypress" width="60" height="60"/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="60" height="60"/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="bootstrap" width="60" height="60"/>  <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="java" width="60" height="60"/> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" alt="javascript" width="60" height="60"/> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/typescript-icon.svg" alt="typescript" width="60" height="60"/> <img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="mongodb" width="60" height="60"/> <img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="mysql" width="60" height="60"/> <img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="sass" width="60" height="60"/> <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="nodejs" width="60" height="60"/> 
-   <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nestjs.svg" alt="nestJs" width="60" height="60"/> 
-    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/jenkins.svg" alt="jenkins" width="60" height="60"/> 
-</p>
-
-
-
-<p align="center"> 
-   <img src="https://github-readme-stats.vercel.app/api?username=tomascavataio&show_icons=true&theme=radical&hide_rank=true" alt="tomascavataio"/> 
-</p>
-<p align="center"> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomascavataio&theme=radical&layout=donut" alt="tomascavataio"/> 
-</p>
 <p align="center">
-<a href="https://linkedin.com/in/tomas-cavataio-1058a618b" target="blank"><img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/linkedin-icon.svg" alt="tomas-cavataio" height="20" width="20" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,50:0369a1,100:7c3aed&text=Tomás%20Cavataio&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20•%20Cloud%20•%20DevOps%20•%20AI&descAlignY=60&descSize=19&animation=fadeIn"
+    alt="Tomás Cavataio — Software Engineer"
+  />
+</p>
+
+<div align="center">
+
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineer+with+6%2B+years+of+experience;Building+scalable+web+and+cloud+platforms;Currently+focused+on+DevOps%2C+automation+and+AI"
+      alt="Typing introduction"
+    />
+  </a>
+
+  <br />
+
+  <p>
+    I design and build complete digital products, from modern interfaces and
+    APIs to databases, cloud infrastructure, CI/CD pipelines and observability.
+  </p>
+
+  <p>
+    <strong>
+      TypeScript · Java · Node · Angular · React · SQL · Docker ·  AWS · Kubernetes
+    </strong>
+  </p>
+
+  <br />
+
+  <a href="mailto:tomascavataio@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact_me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/tomas-cavataio-1058a618b/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=tomascavataio&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"
+    alt="Profile views"
+  />
+
+</div>
+
+<br />
+
+<!-- =========================
+     ABOUT
+========================= -->
+
+## 👨‍💻 About me
+
+```typescript
+const tomas = {
+  role: "Software Engineer",
+  location: "Madrid, Spain",
+  experience: "6+ years",
+
+  building: [
+    "Scalable SaaS platforms",
+    "AI-powered products",
+    "Cloud-native systems",
+    "Developer automation"
+  ],
+
+  currentFocus: [
+    "DevOps",
+    "Platform Engineering",
+    "AWS",
+    "Kubernetes",
+    "Observability"
+  ]
+};
